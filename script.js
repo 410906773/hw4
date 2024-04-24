@@ -4,7 +4,7 @@ Highcharts.chart('container', {
         type: 'spline'
     },
     title: {
-        text: 'Monthly Average Temperature'
+        text: '資科4b 程致鈞'
     },
     subtitle: {
         text: 'Source: ' +
