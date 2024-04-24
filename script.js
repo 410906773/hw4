@@ -20,7 +20,7 @@ Highcharts.chart('container', {
     },
     yAxis: {
         title: {
-            text: 'Temperature'
+            text: '資科4b 程致鈞'
         },
         labels: {
             format: '{value}°'
